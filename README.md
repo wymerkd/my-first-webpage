@@ -1,8 +1,8 @@
-# _{My First Web Page}_
+# _My First Web Page_
 
-#### _{Simple web page built using HTML}, {10/14/2019}_
+#### _Simple web page built using HTML, 10/14/2019_
 
-#### By _**{Kyle Wymer, Jay Winebrenner, Malcom Womble}**_
+#### By _**Kyle Wymer, Jay Winebrenner, Malcom Womble**_
 
 ## Description
 
